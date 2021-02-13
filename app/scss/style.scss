@@ -1,0 +1,10 @@
+@import "_normalize.scss";
+@import "_fonts.scss";
+@import "_variables.scss";
+@import "_vendor.scss";
+@import "_global.scss";
+@import "_overall.scss";
+
+/* components imports */
+@import "./components/header";
+@import "./components/first";
