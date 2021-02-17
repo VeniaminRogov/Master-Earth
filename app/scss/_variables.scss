@@ -1,4 +1,49 @@
 //Color
 
-$white-color: #fff;
-$black-color: #000;
+$white: #fff;
+$black: #000;
+$dark-blue: #1c2e3d;
+$light-red: #e8594e;
+$light-blue: #73afba;
+
+//fonts
+
+%helvetica-bold {
+	font-family: "HelveticaNeue-Bold", sans-serif;
+	font-weight: 700;
+}
+
+%playfair-regular {
+	font-family: "PlayfairDisplay-Regular", sans-serif;
+	font-weight: 400;
+}
+
+%compactText-light {
+	font-family: "SFCompactText-Light", sans-serif;
+	font-weight: 300;
+}
+
+%compactText-regular {
+	font-family: "SFCompactText-Light", sans-serif;
+	font-weight: 400;
+}
+
+%prodisplay-bold {
+	font-family: "SFProDisplay-Bold", sans-serif;
+	font-weight: 700;
+}
+
+%prodisplay-heavy {
+	font-family: "SFProDisplay-Heavy", sans-serif;
+	font-weight: 900;
+}
+
+%prodisplay-medium {
+	font-family: "SFProDisplay-Medium", sans-serif;
+	font-weight: 500;
+}
+
+%protext-regular {
+	font-family: "SFProText-Regular", sans-serif;
+	font-weight: 400;
+}

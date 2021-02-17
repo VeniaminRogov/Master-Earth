@@ -44,7 +44,6 @@
 	font-size: 22px;
 	line-height: 1;
 	letter-spacing: 2px;
-	color: $white-color;
 	text-transform: uppercase;
 }
 
@@ -57,7 +56,7 @@
 .burger__line {
 	width: 100%;
 	height: 2px;
-	background-color: $white-color;
+	background-color: $white;
 	display: block;
 	position: absolute;
 	right: 0;
