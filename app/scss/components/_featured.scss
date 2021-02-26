@@ -56,7 +56,7 @@
 	background-color: $light-blue;
 }
 
-.featured__stories {
+.featured-stories {
 	background-color: #3c4a51;
 	position: absolute;
 	right: 0;
@@ -64,4 +64,11 @@
 	opacity: 0.94;
 	height: 100%;
 	width: 35.3%;
+	padding: 127px 133px;
+}
+
+.featured-stories__title {
+	color: $white;
+	width: 20%;
+	margin-bottom: 96px;
 }
